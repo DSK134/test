@@ -1,0 +1,9 @@
+body{
+	background-color: lightgreen;
+}
+button{
+	columns: white;
+	background-color: cadetblue;
+	border:none;
+	padding: 20px;
+}
